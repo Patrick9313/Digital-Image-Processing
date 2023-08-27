@@ -1,4 +1,4 @@
-# Digital Image Processing
+# Digital Image Processing（数字图像处理）
 1.基于MATLAB的图像加解密及传输仿真
 
 2.选取“一次一密”加密方式，密钥随机生成，用2ASK的传输方式接收密文
