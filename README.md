@@ -1,1 +1,1 @@
-# SVM
+# Digital Image Processing
